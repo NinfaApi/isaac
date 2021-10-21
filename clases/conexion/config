@@ -1,0 +1,9 @@
+{
+    "conexion":{
+        "server" : "mysql-11088-db.mysql-11088:11136",
+        "user" : "super-usuario",
+        "password" : "KFsVqyQMmxgV7eH",
+        "database" : "apirest",
+        "port": "11136"
+    }
+}
